@@ -1509,6 +1509,20 @@ body {
     font-size: 0.8rem;
   }
 }
+.cid-rv4KDH015p {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #575bff;
+}
+.cid-rv4KDH015p .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rv4KDH015p .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rv4KDH015p H2 {
+  color: #fff115;
+}
 .cid-rv1gl0W6xj {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1570,6 +1584,11 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rv4JO9PQxF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-ruvPGPANq1 {
   padding-top: 30px;
